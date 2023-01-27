@@ -3,19 +3,31 @@ This repository contains the whole summary of hands on done during the workshop 
 
 # Contents
 
-Day 1
-  o Talking to Computers
-  o Soc design and OpenLANE
-  o ASIC flow
-  o Get familiar to Open-source EDA tool
-  o Synthesis 
+    Day 1
+      o Talking to Computers
+      o Soc design and OpenLANE
+      o ASIC flow
+      o Get familiar to Open-source EDA tool
+      o Synthesis 
 
-Day 2
-  o Floorplanning
-  o Placement
-  o cell designing
-  o Timing characterization
+    Day 2
+      o Floorplanning
+      o Placement
+      o cell designing
+      o Timing characterization
 
-Day 3
-  o CMOS inverter ngspice simulation
-  o Steps to create spice DECK using sky130 tech
+    Day 3
+      o CMOS inverter ngspice simulation
+      o Steps to create spice DECK using sky130 tech
+    
+    Day 4
+      o 
+      o 
+      o 
+      
+    Day 5
+      o 
+      o 
+      o 
+      
+# Day 1
